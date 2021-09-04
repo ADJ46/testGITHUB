@@ -1,0 +1,10 @@
+x=5
+y=10
+z=x+y
+print(z)
+sub=x-y
+print(sub)
+mul=x*y
+print(mul)
+div=x/y
+print(div)
